@@ -16,5 +16,7 @@ object Composition {
 
   def main(args:Array[String]): Unit = {
       println(compose(inc, square)(6))
+      println(compose(inc, square)(8))
+      println(compose(inc, square)(3))
   }
 }
