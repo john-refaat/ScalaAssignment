@@ -1,8 +1,6 @@
 package elmenus
 
-/**
-  * Created by john on 5/2/18.
-  */
+
 object Palindrome {
   def isPalindrome(word: String): Boolean = {
     if (word == null | word.length() == 1)

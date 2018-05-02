@@ -1,8 +1,5 @@
 package elmenus
 
-/**
-  * Created by john on 5/2/18.
-  */
 class LenghthEncoder {
   def runlengthEncode(s: String): String = {
     if (s == null || s.length() == 0)

@@ -1,8 +1,5 @@
 package elmenus
 
-/**
-  * Created by john on 5/2/18.
-  */
 object Factorial {
   def apply(n: Integer): Integer = {
     if (n==0)
