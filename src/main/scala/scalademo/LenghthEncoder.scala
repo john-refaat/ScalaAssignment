@@ -1,4 +1,4 @@
-package elmenus
+package scalademo
 
 class LenghthEncoder {
   def runlengthEncode(s: String): String = {

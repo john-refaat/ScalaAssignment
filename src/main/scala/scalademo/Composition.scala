@@ -1,4 +1,4 @@
-package elmenus
+package scalademo
 
 object Composition {
 
